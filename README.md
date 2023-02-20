@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hello there 👋
 
-<!--
-**vladislavlad/vladislavlad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Vladislav Kartashov and I'm professional Software Engineer.
 
-Here are some ideas to get you started:
+I have been studying Computer Science and Information Security at the BMSTU since 2013 for 6 years.
+I started my career as Java Software Engineer more than 6 years ago.
+I have also used Scala, Groovy and Python languages, but my Kotlin lang became my passion.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Kotlin* is my main language since 2020. 
+
+Now I'm also studying Go and Solidity.
+
+
+
+ 
+
+
+
+
