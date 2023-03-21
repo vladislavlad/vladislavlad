@@ -8,4 +8,4 @@ I have also used Scala, Groovy and Python languages, but Kotlin lang became my p
 
 *Kotlin* is my main language since 2020. 
 
-Now I'm also studying Go and Solidity.
+Currently I'm studying Go and Solidity.
